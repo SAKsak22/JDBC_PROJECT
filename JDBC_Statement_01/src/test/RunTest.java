@@ -11,6 +11,9 @@ public class RunTest {
 
 	public static void main(String[] args) {
 		
+		
+		
+		
 		/*
 		 * * JDBC용 객체 -Connection : DB의 연결정보를 담고있는 객체 -[Prepared]Statement : 연결된 DB에
 		 * SQL문을 전달해서 실행하고, 결과를 받아내는 객체 -ResultSet : SELECT문 실행 후 조회된 결과물들이 담겨있는 객체
